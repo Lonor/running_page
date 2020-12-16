@@ -20,7 +20,7 @@ on:
 
 env:
   RUN_TYPE: nike
-  ATHLETE: Lonor
+  ATHLETE: Lawrence
   TITLE: Lawrence Running
   TITLE_GRID: Over 10km Runs
   GITHUB_NAME: Lonor
